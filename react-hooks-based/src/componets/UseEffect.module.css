@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(213, 223, 219);
+}
+.containerStyle {
+  text-align: center;
+  padding: 10px;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.buttonStyle {
+  background-color: #007bff;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 20px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}

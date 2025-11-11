@@ -1,0 +1,20 @@
+.containerStyle {
+  text-align: center;
+  margin-top: 0px;
+  font-family: serif;
+}
+.countbg {
+  background-color: grey;
+  padding: 50px 100px;
+  margin: 0%;
+}
+
+.buttonStyle {
+  background-color: #228f1eff;
+  color: white;
+  border: none;
+  padding: 20px 30px;
+  margin: 40px;
+  cursor: pointer;
+  font-size: 16px;
+}
