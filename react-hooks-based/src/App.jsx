@@ -1,6 +1,6 @@
 import React from "react";
-import IncreaseDecreaseCount from "./componets/IncreaseDecreaseCount";
-import UseEffectForTitle from "./componets/UseEffectForTitle";
+import IncreaseDecreaseCount from "./componets/IncreaseDecrese/IncreaseDecreaseCount";
+import UseEffectForTitle from "./componets/useEffect/UseEffectForTitle";
 
 function App() {
   return (

@@ -18,7 +18,7 @@ class MyCounter extends Component {
   render() {
     return (
       <div className={style.containerStyle}>
-        <h1>Counter(መቁጠሪያ)</h1>
+        <h1>Counter(መቁጠሪያ )</h1>
         <button onClick={this.allClicksCounter} className={style.buttonStyle}>
           Click Here
         </button>
